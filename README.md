@@ -1,6 +1,6 @@
 # Hello-World---Ciao-Mondo
 Traduzione Software in Italiano - Software Translation into Italian
-ESDToolKit - Edit from Gus33000 - Version 4.0 - Translated into Italian from Sabino Boccaforno - Tradotto in Italiano da Sabino Boccaforno
+ESDToolKit - Edit by Gus33000 - Version 4.0 - Translated into Italian by Sabino Boccaforno - Tradotto in Italiano da Sabino Boccaforno
 
 ### Credit for the original script and the tools used:
 
